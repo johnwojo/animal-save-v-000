@@ -12,5 +12,5 @@ html {
 
 @media only screen and (min-width: 406px) and (max-width: 1090px) {
   #monkey {
-    top: 60px;
+    top: 100px;
     transform: rotate(180deg)
